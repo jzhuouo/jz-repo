@@ -1,3 +1,3 @@
 # jz-repo
-Very first repository from JZ
+Very first repository from JZ;
 Hello world!
